@@ -14,6 +14,7 @@ The group code generates a full-screen grid of animated “wheels” featuring d
 My individual work extends this with a Perlin-noise-driven particle flowfield that moves around the wheels, creating colourful trails influenced by palettes of nearby wheels. It is also an implementation of the dot pattern between the wheels of the orignal art work.
 The result is a dynamic composition in which Abad’s wheels sit within a swirling, living environment.
 
+[![Project showcase](assets/showcase.gif)]
 ---
 
 ## 2. How to Interact With the Work
